@@ -1,14 +1,14 @@
 {
     "links": [
-        "assets/logo/logo_git.png",
-        "assets/logo/logo_mongo.png",
-        "assets/logo/logo_js.png",
-        "assets/logo/logo_ts.png",
-        "assets/logo/logo_nodejs.png",
-        "assets/logo/logo_angular.png",
-        "assets/logo/logo_nest.png",
-        "assets/logo/logo_css.png",
-        "assets/logo/logo_html.png",
-        "assets/logo/logo_php.png"
+        "portfolio-client/assets/logologo_git.png",
+        "portfolio-client/assets/logologo_mongo.png",
+        "portfolio-client/assets/logologo_js.png",
+        "portfolio-client/assets/logologo_ts.png",
+        "portfolio-client/assets/logologo_nodejs.png",
+        "portfolio-client/assets/logologo_angular.png",
+        "portfolio-client/assets/logologo_nest.png",
+        "portfolio-client/assets/logologo_css.png",
+        "portfolio-client/assets/logologo_html.png",
+        "portfolio-client/assets/logologo_php.png"
     ]
 }
